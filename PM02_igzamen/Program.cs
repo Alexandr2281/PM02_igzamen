@@ -78,7 +78,7 @@ class Program
         }
         return d;
     }
-
+    // коментарий для комита
 
     public static void FindShortestPathForThreePoints()
     {
